@@ -18,22 +18,23 @@ body {
 }
 
 .card {
+  text-align: center;
+  opacity:50%;
   background-color: white;
   border-radius: 1rem;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
   padding: 2rem;
-  text-align: center;
-  position: relative;
+  position:relative;
   top: 40%;
-  z-index: -2;
-  width: 75%; /* tambahkan lebar kartu menjadi 50% */
+  z-index: -1;
+  width: 65%; /* tambahkan lebar kartu menjadi 50% */
   max-width: 500px; /* tambahkan batasan lebar maksimum */
-  height: 75%; /* tambahkan lebar kartu menjadi 50% */
-  max-height: 500px; /* tambahkan batasan lebar maksimum */
-  margin: auto; /* tambahkan margin auto untuk mengatur posisi di tengah */
+  height: 100%; /* tambahkan lebar kartu menjadi 50% */
+  max-height: 1000px; /* tambahkan batasan lebar maksimum */
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Ubah font-family menjadi Helvetica Neue, Helvetica, Arial, sans-serif */
-  font-size: 1.5rem; /* Perbesar ukuran huruf menjadi 1.5rem */
+  font-size: 0.9rem; /* Perbesar ukuran huruf menjadi 1.5rem */
   font-weight: bold; /* Tambahkan font-weight menjadi bold */
+  
 }
 
 

@@ -34,7 +34,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Ubah font-family menjadi Helvetica Neue, Helvetica, Arial, sans-serif */
   font-size: 0.9rem; /* Perbesar ukuran huruf menjadi 1.5rem */
   font-weight: bold; /* Tambahkan font-weight menjadi bold */
-  background-image: url("/blob/main/masjid2.png");
+  background-image: url("masjid2.PNG");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top 90px;
